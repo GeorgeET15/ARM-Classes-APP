@@ -1,14 +1,11 @@
-# Zoom SDK Example
+# ARM Classes App
 
-This is a simple zoom sdk example code which was originally published in my blog, two parts have been listed below. 
-  - [Part 1 ( Hosting a Meeting )](https://techenum.com/zoom-sdk-android-learn-how-to-create-an-online-meeting/)
-  - [Part 2 ( Joining a Meeting )](https://techenum.com/zoom-sdk-android-learn-how-to-join-an-online-meeting/)
+This is a online learning platform for learning Maths. This app was developed for ARM Classes an educational institution.
    
 # Features
 
-  - Host a meeting from app
-  - Join a meeting from app
-  - Notify user's through push notification (PENDING)
+  - Live Classes
+  - Youtube videos
 
 # How to RUN
 

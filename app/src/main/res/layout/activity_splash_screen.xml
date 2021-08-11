@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/layout_welcome_page_1_splash_image"
+        android:layout_width="257dp"
+        android:layout_height="194dp"
+        app:srcCompat="@drawable/logo_home" />
+
+    <LinearLayout
+        android:id="@+id/layout_welcome_page_1_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Love Maths by Learning"
+        android:textSize="30dp"
+        android:textColor="#043ED3"/>
+
+</LinearLayout>
